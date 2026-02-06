@@ -1,4 +1,4 @@
-## Olá!! prazer, me chamo David e seja muito Bem-Vindo(a)!! 👋
+## Seja muito Bem-Vindo(a)!! 👋
 
 Graduando em Ciência da Computação pela Universidade Federal de Sergipe (UFS), atualmente no 8º período. Entusiasta de tecnologia, sempre em busca de novos aprendizados e aplicar meus conhecimentos em projetos desafiadores que contribuam para meu crescimento profissional. Atualmente venho atuando na área de desenvolvimento web e me interessando em áreas como Machine Learning e IA.
 
